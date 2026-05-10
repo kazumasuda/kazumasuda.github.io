@@ -30,3 +30,5 @@ format:
     fontsize: 1rem
     mainfont: "Georgia, serif"
     linkcolor: "#1a5490"
+    include-after-body:
+      - _includes/footer.html

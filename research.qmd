@@ -5,24 +5,19 @@ title: "Research"
 ## Working Papers
 
 ::: {.paper}
-[**Paper Title One**]{.paper-title}
-with Coauthor Name
-[*Working Paper*, Year]{.paper-meta}
-:::
-
-::: {.paper}
-[**Paper Title Two**]{.paper-title}
-with Coauthor Name
-[*Working Paper*, Year]{.paper-meta}
+[Healthcare Decentralization: Evidence from a Universal Treatment Subsidy for Tuberculosis]{.paper-title}
+[with Coauthor Name]{.paper-meta}
+[[\[PDF\]](#) · [\[SSRN\]](#)]{.paper-meta}
 :::
 
 ## Work in Progress
 
 ::: {.paper}
-[**Project Title One**]{.paper-title}
-with Coauthor Name
+[Intergenerational Persistence in Child Mortality in Indonesia]{.paper-title}
+[with Coauthor Name]{.paper-meta}
 :::
 
 ::: {.paper}
-[**Project Title Two**]{.paper-title}
+[Health Insurance Expansion and Intergenerational Mobility]{.paper-title}
+[with Coauthor Name]{.paper-meta}
 :::

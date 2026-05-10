@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  Kazuya Masuda · Gakushuin University
+  <span style="float: right;">Last updated <span id="last-updated"></span></span>
+</footer>
+<script>
+  (function () {
+    var d = new Date(document.lastModified);
+    var iso = d.toISOString().slice(0, 10);
+    var el = document.getElementById("last-updated");
+    if (el) el.textContent = iso;
+  })();
+</script>
