@@ -3,10 +3,8 @@ title: "Kazuya Masuda"
 pagetitle: "Kazuya Masuda"
 ---
 
-I am an Associate Professor of Economics at [Gakushuin University](https://www.gakushuin.ac.jp/univ/eco/) in Tokyo.
+I am Associate Professor of Economics at [Gakushuin University](https://www.gakushuin.ac.jp/univ/eco/) in Tokyo.
 
-My research lies at the intersection of **development economics** and **health economics**, with a particular interest in **economic history** and **intergenerational mobility**. I study how public health policies and institutional reforms shape long-run economic outcomes and the transmission of welfare across generations, primarily in the context of Indonesia and other developing economies.
+My research is in development economics, health economics, economic history, and intergenerational mobility.
 
-You can find my research on the [Research](research.qmd) page and a recent [CV](cv.pdf) here.
-
-[Email](mailto:kazuya.masuda@gakushuin.ac.jp)  ·  [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)  ·  [CV (PDF)](cv.pdf)
+[kazuya.masuda@gakushuin.ac.jp](mailto:kazuya.masuda@gakushuin.ac.jp)

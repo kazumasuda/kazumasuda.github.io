@@ -2,18 +2,4 @@
 title: "CV"
 ---
 
-A PDF copy of my CV is available [here](cv.pdf).
-
-## Academic Positions
-
-- Associate Professor of Economics, Gakushuin University
-
-## Education
-
-- Ph.D. in Economics
-- M.A. in Economics
-- B.A. in Economics
-
-## Fields
-
-Development Economics · Health Economics · Economic History · Intergenerational Mobility
+CV available upon request.

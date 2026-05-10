@@ -10,8 +10,4 @@ Gakushuin University
 1-5-1 Mejiro, Toshima-ku
 Tokyo 171-8588, Japan
 
----
-
-[Email](mailto:kazuya.masuda@gakushuin.ac.jp): kazuya.masuda@gakushuin.ac.jp
-[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-[CV (PDF)](cv.pdf)
+[kazuya.masuda@gakushuin.ac.jp](mailto:kazuya.masuda@gakushuin.ac.jp)

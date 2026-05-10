@@ -6,18 +6,10 @@ title: "Research"
 
 ::: {.paper}
 [Healthcare Decentralization: Evidence from a Universal Treatment Subsidy for Tuberculosis]{.paper-title}
-[with Coauthor Name]{.paper-meta}
-[[\[PDF\]](#) · [\[SSRN\]](#)]{.paper-meta}
 :::
 
 ## Work in Progress
 
 ::: {.paper}
 [Intergenerational Persistence in Child Mortality in Indonesia]{.paper-title}
-[with Coauthor Name]{.paper-meta}
-:::
-
-::: {.paper}
-[Health Insurance Expansion and Intergenerational Mobility]{.paper-title}
-[with Coauthor Name]{.paper-meta}
 :::
