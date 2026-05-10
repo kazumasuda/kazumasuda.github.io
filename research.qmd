@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+::: {.paper}
+[**Paper Title One**]{.paper-title}
+with Coauthor Name
+[*Working Paper*, Year]{.paper-meta}
+:::
+
+::: {.paper}
+[**Paper Title Two**]{.paper-title}
+with Coauthor Name
+[*Working Paper*, Year]{.paper-meta}
+:::
+
+## Work in Progress
+
+::: {.paper}
+[**Project Title One**]{.paper-title}
+with Coauthor Name
+:::
+
+::: {.paper}
+[**Project Title Two**]{.paper-title}
+:::

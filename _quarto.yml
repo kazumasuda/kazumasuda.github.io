@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kazuya Masuda"
+  site-url: "https://kazumasuda.github.io/"
+  navbar:
+    pinned: true
+    background: white
+    foreground: black
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: article
+    fontsize: 1rem
+    mainfont: "Georgia, serif"
+    linkcolor: "#1a5490"

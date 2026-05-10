@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://github.com/kazuya-masuda)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://github.com/kazuya-masuda/kazuya-masuda.github.io)",
+      "Bash(git --version)",
+      "Bash(quarto --version)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://github.com/kazumasuda)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://github.com/kazumasuda/kazumasuda.github.io)"
+    ]
+  }
+}
